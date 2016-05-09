@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {color: #666;
+			text-align: center;
+			background-image: url(images/sub_back.png);}
+#contents{margin-right: 50px;
+					margin-left: 50px;}
+h1 {font-size: 36px;
+		color: #fff;
+		font-family: Georgia,"Times New Roman",Times,serif ;
+		 letter-spacing:15px;
+		 background-color: #668B8F;
+		 height:90px;
+		 line-height: 90px;
+		 margin:-20px -58px 40px -58px;}
+h2 {font-size: 18px;
+		color: #fff;
+		background-color:#749cbd;
+		margin-bottom: 0;
+		padding-top: 5px;
+		padding-bottom: 5px;}
+		form{font-size: 14px;
+			text-align: left;
+			background-color: #f4eeee;
+			line-height: 150%;
+			margin-top: 0;
+			margin-bottom:15px;
+			padding: 20px;}
+textarea{margin-bottom: 10px;}
+.none {display: none;}
+.block {display: block;}
+
+#num{width: 45px;}
+#zyusyo p{margin:8px;}
+input[name="yuubin3"]{width:30px;}
+input[name="yuubin4"]{width:40px;}
+input[name="ken"]{width:70px;}
+input[name="si"]{width:70px;}
+input[name="ikou"]{width:159px;}
+input[name="add"]{width:180px;}
+input[name="total_plice"]{width:100px; text-align: right;}
+input[name="num"]{margin-top:25px;}
+em {font-size:0.9em;
+		color:#d67;}
